@@ -1,0 +1,6 @@
+/home/luhyxi/RiderProjects/ConsoleApplication3/Desafios1/bin/Debug/Desafios1.exe
+/home/luhyxi/RiderProjects/ConsoleApplication3/Desafios1/bin/Debug/Desafios1.pdb
+/home/luhyxi/RiderProjects/ConsoleApplication3/Desafios1/obj/Debug/Desafios1.csproj.AssemblyReference.cache
+/home/luhyxi/RiderProjects/ConsoleApplication3/Desafios1/obj/Debug/Desafios1.csproj.CoreCompileInputs.cache
+/home/luhyxi/RiderProjects/ConsoleApplication3/Desafios1/obj/Debug/Desafios1.exe
+/home/luhyxi/RiderProjects/ConsoleApplication3/Desafios1/obj/Debug/Desafios1.pdb
