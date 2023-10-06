@@ -13,12 +13,19 @@ namespace Desafios
 
             if (int.TryParse(num1Str, out int num1) && int.TryParse(num2Str, out int num2))
             {
-                int soma = num1 + num2, sub = num1 - num2, mult = num1 * num2, div = num1 / num2;
-                Console.WriteLine($@"
+                if(num1 == 0 && num2 == 0)
+                {
+                    Console.Write("Ambos os numeros não podem ser 0");
+                }
+                else
+                {
+                    int soma = num1 + num2, sub = num1 - num2, mult = num1 * num2, div = num1 / num2;
+                    Console.WriteLine($@"
 A Soma dos dois números é {soma}
 A Subtração dos dois números é {sub} 
 A Multiplicação dos dois números é {mult}
-A Divisão dos dois números é {div}");
+A Divisão dos dois números é {div}");   
+                }
             }
             else
             {

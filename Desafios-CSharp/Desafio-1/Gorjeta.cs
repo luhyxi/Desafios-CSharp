@@ -14,7 +14,7 @@ namespace Desafios
             
             if (double.TryParse(num1Str, out double num1) && double.TryParse(num2Str, out double num2))
             {
-                if (num2 >= 0 && num2 <= 100)
+                if (num2 >= 0 && num2 <= 100 && num1 > 0)
                 {
                     double valGorjeta = num1 * num2;
                     valGorjeta = valGorjeta / 100.0d;
@@ -22,12 +22,12 @@ namespace Desafios
                 }
                 else
                 {
-                    Console.WriteLine("Porcentagem inválida, por favor insira um valor dentre 0% e 100%");
+                    Console.WriteLine("Porcentagem inválida, por favor insira uma porcentagem 0% e 100% e valores da conta positivos.");
                 }
             }
             else
             {
-                Console.WriteLine("Input inválido, Por favor insira 'doubles' validos");
+                Console.WriteLine("Input inválido, Por favor insira 'doubles' validos.");
             }
         }
     }

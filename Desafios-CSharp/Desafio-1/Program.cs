@@ -13,10 +13,10 @@ Olá! Qual programa você deseja utilizar?
 2 - Calculadora de Idade
 3 - Calculadora de Gorjeta
 4 - Conversor de Moedas");
-            
+
             string inputStr = (Console.ReadLine());
-            
-            switch(inputStr) 
+
+            switch (inputStr)
             {
                 case "1":
                     Calculadora.RealizarCalculos();
@@ -34,7 +34,7 @@ Olá! Qual programa você deseja utilizar?
                     Console.WriteLine("Por valor, insira algum numero da lista");
                     break;
             }
-            
+
         }
     }
 }

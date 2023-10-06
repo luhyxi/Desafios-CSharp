@@ -24,3 +24,10 @@ Valor em Euros é {valEuro * num1} (€6.50)");
         }
     }
 }
+
+/*
+String substring = value.Substring(startIndex, length);
+string string_ = "Isso é uma string";
+string substring = string_.Substring(0,4);
+
+*/
