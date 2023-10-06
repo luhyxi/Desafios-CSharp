@@ -17,6 +17,7 @@ namespace Desafios
                 Console.WriteLine($"A idade calculada é {result}");
             }
             else Console.WriteLine("Input inválido, Por favor insira 'integers' validos");
+            Console.ReadLine(); // Aguardar pressionamento de tecla para sair
         }
     }
 }

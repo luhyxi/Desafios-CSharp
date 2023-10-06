@@ -21,6 +21,7 @@ Valor em Euros é {valEuro * num1} (€6.50)");
             {
                 Console.WriteLine("Input inválido, Por favor insira 'doubles' válidos");
             }
+            Console.ReadLine(); // Aguardar pressionamento de tecla para sair
         }
     }
 }

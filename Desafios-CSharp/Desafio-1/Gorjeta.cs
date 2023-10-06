@@ -29,6 +29,7 @@ namespace Desafios
             {
                 Console.WriteLine("Input inválido, Por favor insira 'doubles' validos.");
             }
+            Console.ReadLine(); // Aguardar pressionamento de tecla para sair
         }
     }
 }

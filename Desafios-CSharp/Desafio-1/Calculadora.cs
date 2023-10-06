@@ -31,6 +31,7 @@ A Divisão dos dois números é {div}");
             {
                 Console.WriteLine("Input inválido, Por favor insira 'integers' válidos");
             }
+            Console.ReadLine(); // Aguardar pressionamento de tecla para sair
         }
     }
 }

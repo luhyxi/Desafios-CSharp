@@ -45,6 +45,10 @@
         <Compile Include="Desafio-1\ConversorMoedas.cs" />
         <Compile Include="Desafio-1\Gorjeta.cs" />
         <Compile Include="Desafio-1\Program.cs" />
+        <Compile Include="Desafio-2\CalculadoraNotas.cs" />
+        <Compile Include="Desafio-2\CategoriaNatacao.cs" />
+        <Compile Include="Desafio-2\ExcessoPeixe.cs" />
+        <Compile Include="Desafio-2\LojaVendas.cs" />
         <Compile Include="Properties\AssemblyInfo.cs"/>
     </ItemGroup>
     <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets"/>
