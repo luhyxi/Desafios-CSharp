@@ -1,0 +1,6 @@
+/home/luhyxi/RiderProjects/ConsoleApplication3/Desafios-CSharp/bin/Debug/Desafios-CSharp.exe
+/home/luhyxi/RiderProjects/ConsoleApplication3/Desafios-CSharp/bin/Debug/Desafios-CSharp.pdb
+/home/luhyxi/RiderProjects/ConsoleApplication3/Desafios-CSharp/obj/Debug/Desafios-CSharp.csproj.AssemblyReference.cache
+/home/luhyxi/RiderProjects/ConsoleApplication3/Desafios-CSharp/obj/Debug/Desafios-CSharp.csproj.CoreCompileInputs.cache
+/home/luhyxi/RiderProjects/ConsoleApplication3/Desafios-CSharp/obj/Debug/Desafios-CSharp.exe
+/home/luhyxi/RiderProjects/ConsoleApplication3/Desafios-CSharp/obj/Debug/Desafios-CSharp.pdb
