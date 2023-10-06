@@ -20,7 +20,10 @@ Olá! Qual programa você deseja utilizar?
 5 - Calculadora de Excesso de Peixes
 6 - Categorias de Natação
 7 - Sistema de Loja de Vendas
-8 - Caculadora Notas");
+8 - Caculadora Notas
+9 - Escolha de Cursos
+10 - Palindromo
+11 - Reajuste Salarial");
 
             string inputStr = (Console.ReadLine());
 
@@ -57,6 +60,18 @@ Olá! Qual programa você deseja utilizar?
                 case "8":
                     Console.Clear();
                     CalculadoraNotas.RealizarCalculos();
+                    break;
+                case "9":
+                    Console.Clear();
+                    CursosEscolha.RealizarCalculos();
+                    break;
+                case "10":
+                    Console.Clear();
+                    Palindromo.RealizarCalculos();
+                    break;
+                case "11":
+                    Console.Clear();
+                    Reajuste.RealizarCalculos();
                     break;
                 default:
                     Console.WriteLine("Por valor, insira algum numero da lista");
