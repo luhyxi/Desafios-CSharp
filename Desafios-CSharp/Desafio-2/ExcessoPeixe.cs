@@ -13,7 +13,7 @@ namespace Desafios
             {
                 // Não sei se esta formula aritmétrica é a melhor, talvez armazenar
                 // o valor do pescado (uintPescado-50) seria mais performática
-                string message = (doublePescado > 50) ? $"Excesso: {doublePescado - 50}Kg, Multa: R$:{(doublePescado - 50) * 4}" : "Execesso: 0, Multa: 0";
+                string message = (doublePescado > 50) ? $"Excesso: {doublePescado - 50}Kg, Multa: R$:{(doublePescado - 50) * 4:F2}" : "Execesso: 0, Multa: 0";
                 Console.WriteLine(message);
                 Console.ReadLine(); // Aguardar pressionamento de tecla para sair
             }

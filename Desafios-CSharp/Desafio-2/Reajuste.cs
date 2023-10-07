@@ -38,10 +38,10 @@ namespace Desafios
                 salarioAgr = salarioAntes + (salarioAntes * percetualApl / 100.0m);
             }
             Console.WriteLine($@"
-Salário Antes do Ajuste: R${salarioAntes}
+Salário Antes do Ajuste: R${salarioAntes:F2}
 Percentual aplicado: {percetualApl}%
-Valor do Aumento: R${salarioAntes*(percetualApl/100)}
-Novo Salário: R${salarioAgr}");
+Valor do Aumento: R${(salarioAntes*(percetualApl/100))}
+Novo Salário: R${salarioAgr:F2}");
             Console.ReadLine();
         }
     }
