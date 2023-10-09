@@ -27,11 +27,12 @@ namespace Desafios
 
                 List<int> subList = serieNum.TakeWhile(i => i != 0).ToList();
 
-                if (!subList.Any())
+                if (subList.Count == 0 || subList.Last() != 0)
                 {
                     Console.WriteLine("Não existe zero (0) no seu input, tente novamente.");
+                    break;
                 }
-                else
+                
                 {
                     Console.WriteLine($"A serie de numeros lidos: {string.Join(", ", subList)}");
                     Console.WriteLine($"A quantidade de numeros lidos: {subList.Count}");
