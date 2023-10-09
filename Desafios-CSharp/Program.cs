@@ -82,9 +82,13 @@ Olá! Qual programa você deseja utilizar?
                     Console.Clear();
                     IntBuilder.RealizarCalculos();
                     break;
-                case "15":
+                case "14":
                     Console.Clear();
                     AteZero.RealizarCalculos();
+                    break;
+                case "15":
+                    Console.Clear();
+                    AlgoritVet.RealizarCalculos();
                     break;
                 default:
                     Console.WriteLine("Por valor, insira algum numero da lista");
