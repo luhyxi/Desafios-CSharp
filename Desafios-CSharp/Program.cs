@@ -23,7 +23,8 @@ Olá! Qual programa você deseja utilizar?
 8 - Caculadora Notas
 9 - Escolha de Cursos
 10 - Palindromo
-11 - Reajuste Salarial");
+11 - Reajuste Salarial
+12 - Media, Soma e Minimo");
 
             string inputStr = (Console.ReadLine());
 
@@ -72,6 +73,18 @@ Olá! Qual programa você deseja utilizar?
                 case "11":
                     Console.Clear();
                     Reajuste.RealizarCalculos();
+                    break;
+                case "12":
+                    Console.Clear();
+                    ArrayMedSumMin.RealizarCalculos();
+                    break;
+                case "13":
+                    Console.Clear();
+                    IntBuilder.RealizarCalculos();
+                    break;
+                case "15":
+                    Console.Clear();
+                    AteZero.RealizarCalculos();
                     break;
                 default:
                     Console.WriteLine("Por valor, insira algum numero da lista");

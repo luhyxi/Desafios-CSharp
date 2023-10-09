@@ -51,6 +51,10 @@
         <Compile Include="Desafio-2\LojaVendas.cs" />
         <Compile Include="Desafio-2\Palindromo.cs" />
         <Compile Include="Desafio-2\Reajuste.cs" />
+        <Compile Include="Desafio-3\AlgoritVet.cs" />
+        <Compile Include="Desafio-3\ArrayMedSumMin.cs" />
+        <Compile Include="Desafio-3\AteZero.cs" />
+        <Compile Include="Desafio-3\IntBuilder.cs" />
         <Compile Include="Program.cs" />
         <Compile Include="Properties\AssemblyInfo.cs"/>
     </ItemGroup>
