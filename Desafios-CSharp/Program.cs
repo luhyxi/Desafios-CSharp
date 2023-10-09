@@ -8,6 +8,11 @@ namespace Desafios
         public static void Main(string[] args)
         {
             Console.WriteLine($@"
+    |\       |)            o 
+    |/ |  |  |/\  |  | /\/ | 
+    |_/ \/|_/|  |/ \/|/ /\/|/
+                    (|  
+
 Olá! Qual programa você deseja utilizar?
 
 (Dia 04/10)
@@ -24,7 +29,12 @@ Olá! Qual programa você deseja utilizar?
 9 - Escolha de Cursos
 10 - Palindromo
 11 - Reajuste Salarial
-12 - Media, Soma e Minimo");
+
+(Dia 06/10)
+12 - Media, Soma e Minimo
+13 - `Somador de ints` (1 - 100)
+14 - Calculo de Arrays até zero
+15 - Algoritmo de Soma de Vetores");
 
             string inputStr = (Console.ReadLine());
 
