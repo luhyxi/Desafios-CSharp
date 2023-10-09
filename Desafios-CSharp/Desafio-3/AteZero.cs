@@ -29,7 +29,7 @@ namespace Desafios
 
                 if (subList.Count == 0 || subList.Last() != 0)
                 {
-                    Console.WriteLine("Não existe zero (0) no seu input, tente novamente.");
+                    Console.WriteLine("O seu input não termina com 0.");
                     break;
                 }
                 
