@@ -1,16 +1,9 @@
----
-tags:
-  - projects
-Area: "[[!C-Sharp]]"
-Status: In progress
-topic:
----
 # Dia 04/10:
 
 
 # Dia 05/10:
 ### Try Catch:
-#### !!!!!!1METODOS MAIS FODA AINDA!!!!!!!!!!!!:
+#### Metodo melhor!!!
 ```csharp
 //
 // NÃO PRECISA COLOCAR O READ LINE NA MEMÓRIA!!!
@@ -19,7 +12,7 @@ topic:
 TryParse(Cosnole.ReadLine(), out var coisa)
 
 //
-// EXEMPLO BASED COM IF NO CASO DE EXCESSÃO!!!!
+// EXEMPLO COM IF NO CASO DE EXCESSÃO!!!!
 //
 
 Console.WriteLine("Insira o seu Salario");    

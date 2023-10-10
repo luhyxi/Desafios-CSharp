@@ -10,6 +10,8 @@ Desafios do Coding Tank "DiverseDEV" feitos dentre 04/10 a 10/10, desenvolvidos 
 
 **Langs:** C#
 
+## Anotações
+- [Notas Coding Tank](https://github.com/luhyxi/Desafios-CSharp/blob/master/Notas%20Coding%20Tank.md)
 
 ## Acknowledgements
 
