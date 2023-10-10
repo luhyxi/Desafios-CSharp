@@ -55,6 +55,9 @@
         <Compile Include="Desafio-3\ArrayMedSumMin.cs" />
         <Compile Include="Desafio-3\AteZero.cs" />
         <Compile Include="Desafio-3\IntBuilder.cs" />
+        <Compile Include="Desafio-4\Fibonacci.cs" />
+        <Compile Include="Desafio-4\NumSecreto.cs" />
+        <Compile Include="Desafio-4\SumPar.cs" />
         <Compile Include="Program.cs" />
         <Compile Include="Properties\AssemblyInfo.cs"/>
     </ItemGroup>
