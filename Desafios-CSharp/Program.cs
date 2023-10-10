@@ -125,7 +125,8 @@ Olá! Qual programa você deseja utilizar?
 
 (Dia 09/10)
 16 - Soma dos Pares
-17 - Fibonacci `N` Termo");
+17 - Fibonacci `N` Termo
+18 - Numero Secreto");
             Case();
             Console.Clear();
         }
