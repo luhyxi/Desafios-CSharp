@@ -1,10 +1,3 @@
----
-tags:
-  - projects
-Area: "[[!C-Sharp]]"
-Status: In progress
-topic:
----
 # Dia 04/10:
 
 
